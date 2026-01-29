@@ -6,10 +6,9 @@
 ---
 
 ## Demo
-- GitHub Pages：`（ここにURLを貼る）`
-  - 例：`https://<your-user>.github.io/cw-sample-03-html-remake/`
-- Before：`/before/`
-- After：`/after/`
+- GitHub Pages：https://aoiishikawa1818.github.io/cw-sample-03-html-remake/
+- Before：https://aoiishikawa1818.github.io/cw-sample-03-html-remake/before/
+- After：https://aoiishikawa1818.github.io/cw-sample-03-html-remake/after/
 
 ---
 
@@ -34,6 +33,7 @@
     ├── index.html
     └── styles.css
 ```
+
 ---
 
 ## How to Run（ローカルでの確認）
@@ -45,10 +45,11 @@
 ```bash
 npx serve .
 ```
+
 ---
 
 ## Notes
-- `before` は改修前の状態、`after` は改修後の状態です。
+- `/before` は改修前の状態、`/after` は改修後の状態です。
 - 入口ページ（ルート index.html）から比較できるようにしています。
 
 ---
@@ -62,4 +63,4 @@ npx serve .
 ---
 
 ## License
-- 本プロジェクトは MIT ライセンスの下で公開されています。
+本プロジェクトは MIT ライセンスの下で公開されています。
